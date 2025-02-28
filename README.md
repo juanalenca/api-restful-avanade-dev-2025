@@ -10,8 +10,6 @@ Bem-vindo ao projeto **Java API RESTful** desenvolvido como parte do Bootcamp De
 - [Uso](#uso)
 - [Diagrama de Classes](#diagrama-de-classes)
 - [Contribuindo](#contribuindo)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ## Sobre o Projeto
 Esta API fornece uma solução robusta para gerenciar informações de usuários bancários, incluindo contas, cartões e atualizações de notícias. Foi criada para demonstrar habilidades de desenvolvimento de APIs RESTful aprendidas durante o Bootcamp Decola Tech da DIO, com foco em código limpo, escalabilidade e manutenibilidade.
